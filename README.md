@@ -16,7 +16,9 @@ set -g @plugin 'hokita/tmux-session-fzf'
 Use `prefix` + `I` install plugin.
 
 ## Key Binding
-Add this line into your `.tmux.conf`.
+Default key is `prefix` + `S`(shift + s).
+
+If you change the key bind, add this line into your `.tmux.conf`.
 e.g. Change to `prefix` + `y`
 
 ```shell
